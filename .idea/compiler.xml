@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1500" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="snake-api" />
+        <module name="snake-boot" />
+        <module name="snake-cache" />
+        <module name="snake-client" />
+        <module name="snake-common" />
+        <module name="snake-configure" />
+        <module name="snake-core" />
+        <module name="snake-monitor" />
+        <module name="snake-network" />
+        <module name="snake-register" />
+        <module name="snake-tester" />
+        <module name="snake-tools" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="snake" target="1.8" />
+      <module name="snake-api" target="1.8" />
+      <module name="snake-boot" target="1.8" />
+      <module name="snake-cache" target="1.8" />
+      <module name="snake-client" target="1.8" />
+      <module name="snake-common" target="1.8" />
+      <module name="snake-configure" target="1.8" />
+      <module name="snake-core" target="1.8" />
+      <module name="snake-monitor" target="1.8" />
+      <module name="snake-network" target="1.8" />
+      <module name="snake-register" target="1.8" />
+      <module name="snake-tester" target="1.8" />
+      <module name="snake-tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

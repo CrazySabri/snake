@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/snake.iml" filepath="$PROJECT_DIR$/snake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-api/snake-api.iml" filepath="$PROJECT_DIR$/snake-api/snake-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-boot/snake-boot.iml" filepath="$PROJECT_DIR$/snake-boot/snake-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-cache/snake-cache.iml" filepath="$PROJECT_DIR$/snake-cache/snake-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-client/snake-client.iml" filepath="$PROJECT_DIR$/snake-client/snake-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-common/snake-common.iml" filepath="$PROJECT_DIR$/snake-common/snake-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-configure/snake-configure.iml" filepath="$PROJECT_DIR$/snake-configure/snake-configure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-core/snake-core.iml" filepath="$PROJECT_DIR$/snake-core/snake-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-monitor/snake-monitor.iml" filepath="$PROJECT_DIR$/snake-monitor/snake-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-network/snake-network.iml" filepath="$PROJECT_DIR$/snake-network/snake-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-register/snake-register.iml" filepath="$PROJECT_DIR$/snake-register/snake-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-tester/snake-tester.iml" filepath="$PROJECT_DIR$/snake-tester/snake-tester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snake-tools/snake-tools.iml" filepath="$PROJECT_DIR$/snake-tools/snake-tools.iml" />
+    </modules>
+  </component>
+</project>
